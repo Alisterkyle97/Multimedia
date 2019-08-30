@@ -45,6 +45,6 @@ I was able to manipulate objects using anchor points and curve tools, and combin
 Adobe Photoshop was used to construct my wireframes and mock ups, integrating the objects I created in Illustrator. I chose Photoshop because it is the program I had the most experience with, and it has powerful creativity tools which meant I could give certain objects the look I desired. An example of this would be the ‘login’, ‘sign up’ and ‘search’ buttons that I created. I used effects such as an inner shadow, gradient overlay and drop shadow to give the buttons an almost realistic 3D look.
 I also styled the logo I created in Photoshop. I styled this very basically using an arc tool, but in hindsight, if I was creating an application for a client or designing a logo for a client, I would have styled it much more and possibly have incorporated Illustrator. 
 
-#Below is my wireframes
+# Below is my wireframes
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/GOI2AuP" data-context="false" ><a href="//imgur.com/a/GOI2AuP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
