@@ -35,15 +35,19 @@ When I started envisioning an idea of how my UI would look, I soon discovered th
 
 ### Thoughts and decisions
 
+I believe I was competent at using the tools I had chosen. I was able to distinguish what tool performed which task the best, and used the tool in a way that produced a result I was happy with. The tools I used are both industry standard tools which provides confidence that real world graphic designers and the like, use these tools on a daily basis.
+
 These existing apps influenced my colour choice and I decided to go mainly with orange and grey. I chose these colours as orange is a nice bright, vivid colour which complimented the grey while giving good contrast against it. Going with this rather neutral colour pallet, I found when I added the banner at the bottom of my search page, and the hotel banners on the results page, it drew the eye to those vibrant colours. Designing a travel app, you want customers to make bookings, using the vivid colours for objects directly related to bookings may entice more customers to book, or at least focus their attention that way.
+
 I also decided to make important components large. This includes both the login and sign up button on the first screen, the ‘search’ button on the second screen and the hotel details on the third page. This is so they catch the eye and become the centre of attention.
 On my hotel details, I chose to include selling points in green. Green contrasts well with grey and I feel it complements the orange, but being the only green on the page, it pops out at you.
+
 I have chosen to keep most things square and tried to space objects out evenly, while keeping the things I want in focus at the centre. I believe with the size and layout of components, and additionally the colour, it will draw the user’s eyes to what I would like them to see.
 
 
 ### Final layout
 
-Below is the three screens I designed
+Below are the three screens I designed
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/eH5TnyT" data-context="false" ><a href="//imgur.com/a/eH5TnyT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
